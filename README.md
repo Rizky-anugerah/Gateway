@@ -1,2 +1,1 @@
-# Gateway
-this is for my final exam
+# Gateway Goiot
